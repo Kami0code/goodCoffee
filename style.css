@@ -219,7 +219,7 @@ section {
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
-	background: url(/img/home-img.jpeg);
+	background: url(img/home-img.jpeg);
 	background-size: cover;
 	background-position: center;
 }
